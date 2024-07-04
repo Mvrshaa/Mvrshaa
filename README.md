@@ -6,7 +6,7 @@
 👯 Open to collaborating on data science projects.</br>
 ❤️ Love solving complex problems with data-driven approaches.</br>
 🔍 I'm looking to applying machine learning to real-world business problems</br>
-
+📫 You can reach me <a href="https://www.linkedin.com/in/mvrshaa">here</a></br>
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
