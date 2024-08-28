@@ -1,11 +1,11 @@
 ## Hello!, I'm Marsha👋
 
-🚀 Salesforce developer transitioning into data science, passionate about leveraging data for innovative solutions.</br>
+🚀 Data Scientist passionate about leveraging data for innovative solutions.</br>
 🔭 Currently working on customizing Salesforce solutions and integrations.</br>
 🌱 Learning advanced data analytics and machine learning techniques.</br>
 👯 Open to collaborating on data science projects.</br>
 ❤️ Love solving complex problems with data-driven approaches.</br>
-🔍 I'm looking to applying machine learning to real-world business problems</br>
+🔍 I'm looking forward to applying machine learning to real-world business problems</br>
 📫 You can reach me <a href="https://www.linkedin.com/in/mvrshaa">here</a></br>
 
 ### Tech Stack
