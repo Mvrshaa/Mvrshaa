@@ -1,8 +1,8 @@
 ## Hello!, I'm Marsha👋
 
 🚀 Data Scientist passionate about leveraging data for innovative solutions.</br>
-🔭 Currently working on customizing Salesforce solutions and integrations.</br>
 🌱 Learning advanced data analytics and machine learning techniques.</br>
+🔭 Currently learning generative AI.</br>
 👯 Open to collaborating on data science projects.</br>
 ❤️ Love solving complex problems with data-driven approaches.</br>
 🔍 I'm looking forward to applying machine learning to real-world business problems</br>
