@@ -1,9 +1,9 @@
 ## Hello!, I'm Marsha👋
 
 🚀 Data Scientist passionate about leveraging data for innovative solutions.</br>
-🌱 Learning advanced data analytics and machine learning techniques.</br>
+🌱 I’m interested in AWS, Data Science, Machine Learning techniques and Deep Learning.</br>
 🔭 Currently learning generative AI.</br>
-👯 Open to collaborating on data science projects.</br>
+👯 Open to collaborating on Data Science and ML projects.</br>
 ❤️ Love solving complex problems with data-driven approaches.</br>
 🔍 I'm looking forward to applying machine learning to real-world business problems</br>
 📫 You can reach me <a href="https://www.linkedin.com/in/mvrshaa">here</a></br>
