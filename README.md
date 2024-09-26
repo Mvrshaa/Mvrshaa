@@ -32,7 +32,8 @@
 
 ### 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvrshaa&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa)](https://github.com/Mvrshaa/github-readme-stats) 
+
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa)](https://github.com/Mvrshaa/github-readme-stats) --->
 
  
