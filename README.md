@@ -1,6 +1,6 @@
-## Hello!, I'm Marsha👋
+# <h1 align="center">I'm Marsha👋🚀</h1>
 
-🚀 Data Scientist passionate about leveraging data for innovative solutions.</br>
+🚀 Data Scientist Enthusiast passionate about leveraging data for innovative solutions.</br>
 🌱 I’m interested in AWS, Data Science, Machine Learning techniques and Deep Learning.</br>
 🔭 Currently learning generative AI.</br>
 👯 Open to collaborating on Data Science and ML projects.</br>
