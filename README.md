@@ -1,4 +1,4 @@
-# <h1 align="center">I'm Marsha👋🚀</h1>
+# <h1 align="center">👋 I'm Marsha🚀</h1>
 
 🚀 Data Scientist Enthusiast passionate about leveraging data for innovative solutions.</br>
 🌱 I’m interested in AWS, Data Science, Machine Learning techniques and Deep Learning.</br>
