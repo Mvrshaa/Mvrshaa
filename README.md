@@ -1,11 +1,11 @@
-# <h1 align="center">👋 I'm Marsha🚀</h1>
+<!--- <h1 align="center"></h1> --->
+# 👋 Hello! I'm Marsha.
 
-🚀 Data Scientist Enthusiast passionate about leveraging data for innovative solutions.</br>
-🌱 I’m interested in AWS, Data Science, Machine Learning techniques and Deep Learning.</br>
-🔭 Currently learning generative AI.</br>
-👯 Open to collaborating on Data Science and ML projects.</br>
-❤️ Love solving complex problems with data-driven approaches.</br>
-🔍 I'm looking forward to applying machine learning to real-world business problems</br>
+🚀 A researcher at heart, driven by curiosity.</br>
+🌱 Expanding my expertise in data science, machine learning, and deep learning.</br>
+🔭 Currently immersed in everything and anything Data Science.</br>
+🔍 Exploring models, digging into datasets, and loving the process of learning more every day.</br>
+👯 Always open to collaborating. Let's brainstorm, build, and grow together in the world of data!.</br>
 📫 You can reach me <a href="https://www.linkedin.com/in/mvrshaa">here</a></br>
 
 ### Tech Stack
@@ -37,6 +37,6 @@
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa)](https://github.com/Mvrshaa/github-readme-stats) --->
 
  
-## 🏆 GitHub Trophies
+<!--- ## 🏆 GitHub Trophies ---
 ![](https://github-profile-trophy.vercel.app/?username=Mvrshaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
