@@ -6,7 +6,7 @@
 🔭 Currently immersed in everything and anything Data Science.</br>
 🔍 Exploring models, digging into datasets, and loving the process of learning more every day.</br>
 👯 Always open to collaborating. Let's brainstorm, build, and grow together in the world of data!.</br>
-📫 You can reach me <a href="https://www.linkedin.com/in/mvrshaa">here</a></br>
+📫 You can reach me <a href="https://www.linkedin.com/in/marshaa">here</a></br>
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
