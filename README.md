@@ -36,40 +36,10 @@
 
 
 ### 📊 My GitHub Stats:
-# stats_generator.py
-import requests
 
-# GitHub username
-username = "Mvrshaa"
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvrshaa&show_icons=true&theme=radical)
 
-# Fetch public repos for the user
-try:
-    response = requests.get(f"https://api.github.com/users/{username}/repos")
-    response.raise_for_status()
-    repos = response.json()
-except requests.exceptions.RequestException as e:
-    print(f"Error fetching repos: {e}")
-    repos = []
-
-# Calculate top languages
-lang_count = {}
-for repo in repos:
-    lang = repo['language']
-    if lang:
-        lang_count[lang] = lang_count.get(lang, 0) + 1
-
-top_langs = sorted(lang_count.items(), key=lambda x: x[1], reverse=True)[:5]
-
-print(f"Top 5 languages for {username}:")
-for lang, count in top_langs:
-    print(f"{lang}: {count} repos")
-
-# Calculate total stars
-stars = sum([repo.get('stargazers_count', 0) for repo in repos])
-print(f"\nTotal stars across all repos: {stars}")
-
-# Optional: Print total number of repos
-print(f"Total public repos: {len(repos)}")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa&layout=compact&theme=radical)
 
 
 
