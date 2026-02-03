@@ -8,7 +8,7 @@
 👯 Always open to collaborating. Let's brainstorm, build, and grow together in the world of data!.</br>
 📫 You can reach me <a href="https://www.linkedin.com/in/marshaa">here</a></br>
 
-### Tech Stack
+### Skills
 <!--- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) --->
 <!--- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) --->
 <!--- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) --->
@@ -31,13 +31,49 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ---
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) --->
 
 
 
-### 📊 GitHub Stats:
+### 📊 My GitHub Stats:
+# stats_generator.py
+import requests
 
-![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MvrshaaE&show_icons=true&theme=radical)
+# GitHub username
+username = "Mvrshaa"
+
+# Fetch public repos for the user
+try:
+    response = requests.get(f"https://api.github.com/users/{username}/repos")
+    response.raise_for_status()
+    repos = response.json()
+except requests.exceptions.RequestException as e:
+    print(f"Error fetching repos: {e}")
+    repos = []
+
+# Calculate top languages
+lang_count = {}
+for repo in repos:
+    lang = repo['language']
+    if lang:
+        lang_count[lang] = lang_count.get(lang, 0) + 1
+
+top_langs = sorted(lang_count.items(), key=lambda x: x[1], reverse=True)[:5]
+
+print(f"Top 5 languages for {username}:")
+for lang, count in top_langs:
+    print(f"{lang}: {count} repos")
+
+# Calculate total stars
+stars = sum([repo.get('stargazers_count', 0) for repo in repos])
+print(f"\nTotal stars across all repos: {stars}")
+
+# Optional: Print total number of repos
+print(f"Total public repos: {len(repos)}")
+
+
+
+<!---![Marsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MvrshaaE&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa&layout=compact&theme=radical)
 
@@ -50,4 +86,6 @@
  
 <!--- ## 🏆 GitHub Trophies ---
 ![](https://github-profile-trophy.vercel.app/?username=Mvrshaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
