@@ -35,11 +35,11 @@
 
 
 
-### 📊 My GitHub Stats:
+<!--- ### 📊 My GitHub Stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvrshaa&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvrshaa&layout=compact&theme=radical) --->
 
 
 
